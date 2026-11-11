@@ -1,0 +1,101 @@
+transaction_id,merchant_id,customer_id,transaction_time,amount,payment_method,status,is_refund,scenario_label,is_high_amount
+TXN000248,M010,C02260,2026-10-28 20:46:59,36317.85,E-Wallet,Success,False,High_Amount,True
+TXN000287,M029,C01008,2026-10-17 23:23:14,49594.08,E-Wallet,Success,False,High_Amount,True
+TXN000431,M005,C02220,2026-10-15 12:28:58,25593.93,QR Payment,Success,False,High_Amount,True
+TXN000443,M012,C00846,2026-10-23 23:41:02,31746.15,Credit Card,Success,False,High_Amount,True
+TXN000448,M039,C00787,2026-10-27 11:49:49,31453.82,Debit Card,Success,False,High_Amount,True
+TXN000507,M039,C02310,2026-10-23 23:04:47,44113.96,Debit Card,Success,False,High_Amount,True
+TXN000693,M046,C02999,2026-10-29 19:55:45,44108.58,QR Payment,Success,False,High_Amount,True
+TXN000788,M008,C01556,2026-10-24 00:55:19,37612.25,Debit Card,Success,False,High_Amount,True
+TXN000831,M030,C01503,2026-11-08 07:49:05,28442.08,QR Payment,Success,False,High_Amount,True
+TXN001102,M021,C01824,2026-10-30 11:38:30,33676.84,QR Payment,Success,False,High_Amount,True
+TXN001201,M004,C01871,2026-10-15 15:27:31,28042.17,Credit Card,Success,False,High_Amount,True
+TXN001209,M006,C01155,2026-10-24 23:37:14,31229.5,QR Payment,Success,False,High_Amount,True
+TXN001276,M041,C02950,2026-10-24 22:12:25,37293.61,E-Wallet,Success,False,High_Amount,True
+TXN001314,M003,C02660,2026-10-11 01:24:16,31880.26,Debit Card,Failed,True,High_Amount,True
+TXN001318,M020,C02688,2026-11-08 12:54:49,34140.88,QR Payment,Success,False,High_Amount,True
+TXN001541,M039,C00317,2026-10-28 05:25:20,22297.07,Debit Card,Success,False,High_Amount,True
+TXN001604,M020,C01823,2026-10-16 23:29:43,40965.49,Credit Card,Success,False,High_Amount,True
+TXN001614,M031,C00671,2026-11-04 17:02:31,36867.27,E-Wallet,Success,False,High_Amount,True
+TXN001622,M019,C00127,2026-10-16 21:26:24,23866.2,E-Wallet,Success,False,Normal,True
+TXN001634,M048,C01766,2026-10-17 06:10:57,46715.04,Debit Card,Success,False,High_Amount,True
+TXN001731,M020,C00685,2026-10-13 01:59:08,37714.42,QR Payment,Success,False,High_Amount,True
+TXN001849,M015,C01073,2026-10-14 20:55:02,45123.69,E-Wallet,Success,False,High_Amount,True
+TXN001860,M032,C00183,2026-11-01 06:21:08,42737.76,Credit Card,Success,False,High_Amount,True
+TXN002058,M042,C02506,2026-10-28 09:05:07,43436.2,Debit Card,Success,False,High_Amount,True
+TXN002290,M004,C01310,2026-11-02 01:27:19,34218.64,QR Payment,Success,False,High_Amount,True
+TXN002292,M001,C01334,2026-10-21 03:28:43,27966.3,E-Wallet,Success,False,High_Amount,True
+TXN002318,M034,C00677,2026-11-03 18:32:18,31007.79,Debit Card,Success,False,High_Amount,True
+TXN002433,M015,C02704,2026-10-18 06:53:47,22250.55,Credit Card,Success,False,High_Amount,True
+TXN002589,M025,C00367,2026-10-26 21:15:28,22970.83,QR Payment,Success,False,Normal,True
+TXN002699,M014,C00779,2026-11-03 04:22:28,49625.19,Debit Card,Success,False,High_Amount,True
+TXN002701,M010,C02741,2026-10-20 17:50:08,28788.68,Credit Card,Success,False,High_Amount,True
+TXN002977,M042,C01587,2026-10-22 22:46:44,42049.04,Credit Card,Success,False,High_Amount,True
+TXN003030,M009,C01542,2026-10-16 06:37:39,37954.35,E-Wallet,Success,False,High_Amount,True
+TXN003470,M005,C02365,2026-11-04 06:49:06,38979.13,Debit Card,Success,False,High_Amount,True
+TXN003595,M013,C00959,2026-10-26 07:12:56,24520.26,QR Payment,Success,False,High_Amount,True
+TXN003596,M050,C01314,2026-10-30 15:44:51,37343.63,Credit Card,Success,False,High_Amount,True
+TXN003679,M035,C00215,2026-10-20 12:44:49,26148.88,Credit Card,Success,False,High_Amount,True
+TXN003775,M032,C02341,2026-10-10 16:46:08,26451.03,Credit Card,Success,False,High_Amount,True
+TXN003860,M006,C02671,2026-10-15 05:50:13,46100.97,Debit Card,Success,False,High_Amount,True
+TXN003984,M026,C02160,2026-10-15 01:12:21,30062.96,Credit Card,Success,False,High_Amount,True
+TXN004081,M004,C01789,2026-11-08 11:43:38,26744.22,E-Wallet,Success,False,High_Amount,True
+TXN004093,M042,C01930,2026-10-26 02:56:39,38885.08,Debit Card,Success,False,High_Amount,True
+TXN004107,M017,C02532,2026-11-05 01:57:49,46282.13,E-Wallet,Success,False,High_Amount,True
+TXN004300,M045,C01978,2026-10-11 23:46:42,21972.36,QR Payment,Success,False,Normal,True
+TXN004415,M045,C02171,2026-10-30 01:01:58,30899.39,E-Wallet,Failed,False,High_Amount,True
+TXN004522,M035,C02706,2026-10-24 16:24:19,26455.0,Debit Card,Success,False,High_Amount,True
+TXN004631,M043,C02734,2026-10-27 18:15:01,39701.74,Debit Card,Success,False,High_Amount,True
+TXN004780,M012,C02859,2026-11-04 06:58:50,42698.04,Debit Card,Success,False,High_Amount,True
+TXN004833,M010,C01337,2026-11-08 09:20:12,27449.6,Debit Card,Success,False,High_Amount,True
+TXN004842,M027,C02232,2026-11-06 13:43:32,40816.18,QR Payment,Success,False,High_Amount,True
+TXN004953,M013,C01706,2026-10-12 11:06:54,29766.32,Debit Card,Failed,False,High_Amount,True
+TXN005014,M042,C02541,2026-10-15 08:33:06,41115.67,Credit Card,Success,False,High_Amount,True
+TXN005170,M012,C01654,2026-10-16 15:39:23,28194.96,Credit Card,Success,False,High_Amount,True
+TXN005233,M020,C00250,2026-11-06 17:57:12,26966.84,QR Payment,Failed,False,High_Amount,True
+TXN005249,M047,C00719,2026-11-06 15:15:14,36219.28,Credit Card,Success,False,High_Amount,True
+TXN005275,M016,C02186,2026-11-05 04:46:57,30918.05,E-Wallet,Success,False,High_Amount,True
+TXN005311,M045,C02349,2026-10-19 13:59:57,32883.51,Debit Card,Success,False,Normal,True
+TXN005415,M005,C01250,2026-10-29 04:28:27,45314.23,Credit Card,Success,False,High_Amount,True
+TXN005433,M036,C00063,2026-11-01 14:24:37,45791.68,QR Payment,Success,False,High_Amount,True
+TXN005478,M002,C00753,2026-10-17 23:12:24,34852.65,Credit Card,Success,False,High_Amount,True
+TXN005751,M047,C02907,2026-11-07 20:11:06,49413.0,Credit Card,Success,False,High_Amount,True
+TXN005787,M008,C02442,2026-10-20 15:59:23,26350.24,QR Payment,Success,False,High_Amount,True
+TXN005984,M021,C00383,2026-11-02 10:30:40,47415.66,E-Wallet,Failed,True,High_Amount,True
+TXN006171,M039,C02046,2026-10-11 17:55:15,31998.0,QR Payment,Success,False,High_Amount,True
+TXN006194,M034,C02071,2026-10-14 21:40:52,31165.21,QR Payment,Success,False,High_Amount,True
+TXN006201,M018,C02902,2026-10-11 06:14:24,23877.48,Debit Card,Success,False,High_Amount,True
+TXN006427,M002,C00204,2026-11-07 13:45:57,32380.19,Credit Card,Success,False,High_Amount,True
+TXN006593,M027,C01248,2026-11-05 07:54:41,38882.54,Credit Card,Success,False,High_Amount,True
+TXN006594,M002,C01647,2026-10-25 08:09:09,30784.84,Credit Card,Success,False,High_Amount,True
+TXN006851,M046,C02758,2026-11-06 13:38:51,39119.49,Credit Card,Success,False,High_Amount,True
+TXN006867,M031,C00737,2026-10-22 17:36:31,44421.29,E-Wallet,Success,False,High_Amount,True
+TXN006985,M001,C02752,2026-10-13 02:12:46,31418.39,Credit Card,Success,False,High_Amount,True
+TXN007106,M034,C02717,2026-10-19 04:16:34,43635.13,Credit Card,Success,False,High_Amount,True
+TXN007128,M041,C01612,2026-11-04 15:32:06,44343.09,Debit Card,Success,False,High_Amount,True
+TXN007151,M039,C00903,2026-10-26 06:57:25,32315.93,Debit Card,Success,False,High_Amount,True
+TXN007190,M029,C02668,2026-10-31 08:02:03,46347.72,Debit Card,Success,False,High_Amount,True
+TXN007208,M014,C02329,2026-10-26 02:49:41,49486.09,Debit Card,Success,False,High_Amount,True
+TXN007346,M044,C02570,2026-10-23 06:25:32,23821.98,Credit Card,Success,False,High_Amount,True
+TXN007403,M025,C01519,2026-10-17 11:53:16,22919.54,E-Wallet,Success,False,High_Amount,True
+TXN007471,M047,C02991,2026-10-22 12:31:33,45427.41,Credit Card,Success,False,High_Amount,True
+TXN007509,M032,C02173,2026-10-12 09:19:56,28899.78,Credit Card,Success,False,High_Amount,True
+TXN007625,M005,C00797,2026-10-25 07:12:01,47570.96,Debit Card,Failed,False,High_Amount,True
+TXN007647,M044,C02864,2026-11-03 05:09:12,25886.86,Credit Card,Success,False,High_Amount,True
+TXN007762,M030,C01117,2026-10-28 20:57:09,39310.27,Credit Card,Success,False,High_Amount,True
+TXN007780,M018,C01106,2026-11-04 05:14:47,22545.8,Debit Card,Success,False,High_Amount,True
+TXN008061,M034,C02821,2026-10-15 02:11:20,45465.19,E-Wallet,Success,False,High_Amount,True
+TXN008404,M021,C02569,2026-10-30 15:24:31,25449.9,E-Wallet,Success,False,High_Amount,True
+TXN008459,M037,C01292,2026-10-21 03:01:45,30849.62,E-Wallet,Success,False,High_Amount,True
+TXN008477,M040,C02735,2026-10-16 03:59:05,31172.99,QR Payment,Success,False,High_Amount,True
+TXN008757,M045,C01395,2026-10-26 00:48:46,43946.94,E-Wallet,Success,False,High_Amount,True
+TXN008897,M047,C02452,2026-10-25 19:32:02,28557.87,Debit Card,Success,False,High_Amount,True
+TXN009073,M022,C00714,2026-10-20 05:08:46,44642.57,E-Wallet,Success,False,High_Amount,True
+TXN009115,M032,C02067,2026-11-04 02:03:09,26761.65,Debit Card,Success,False,Unusual_Hour,True
+TXN009134,M001,C00439,2026-10-31 14:33:23,39460.51,Debit Card,Success,False,High_Amount,True
+TXN009271,M024,C01735,2026-11-08 16:55:03,25111.4,Debit Card,Success,False,High_Amount,True
+TXN009299,M039,C00924,2026-10-11 15:18:51,34291.68,Credit Card,Success,False,High_Amount,True
+TXN009348,M044,C02515,2026-11-07 17:16:47,26930.87,E-Wallet,Success,False,High_Amount,True
+TXN009879,M038,C01049,2026-11-06 05:31:25,36046.92,QR Payment,Success,False,High_Amount,True
+TXN009940,M013,C00997,2026-10-27 11:22:52,22900.69,E-Wallet,Success,False,High_Amount,True
+TXN009986,M018,C02881,2026-11-03 08:46:02,48556.85,QR Payment,Success,False,High_Amount,True
